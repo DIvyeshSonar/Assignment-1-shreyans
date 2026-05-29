@@ -1,0 +1,81 @@
+.bg{
+    height: 900px;
+    width: 1970px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 28px;
+    margin-right: 18px;
+    position:fixed ;
+    border-radius: 20px;
+    background-color: rgba(235, 189, 5, 0.899);
+}
+
+.container{
+    height: 900px;
+    width: 580px;
+    position: static;
+    margin-left: 1390px;
+    margin-right: 1500px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius:20px;
+    background-color: bisque;
+}
+
+.pokimon{
+   position: absolute;
+   margin-top: 90px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    top: 140px;
+    left: 70px;
+}
+
+.h1{
+    position: absolute;
+    top: 150px;     
+    left: 60px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 90px;
+    font-weight: 800;
+    line-height: 1;
+}
+
+.per{
+    position: absolute;
+    top: 460px;     
+    left: 70px;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    text-spacing-trim: normal;
+}
+    
+.poki{
+    width: 270px;
+    height: auto;
+    position: absolute;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.mon{
+    width: 850px;
+    height: 850px;
+    position: absolute;
+    margin-left: 1000px;
+    margin-bottom: 00px;
+    margin-top: 75px;
+}
+
+.txt{
+    height: 200px;
+    width: 600px ;
+    position: absolute;
+     top: 650px;     
+    left: 70px;
+    font-family: sans-serif;
+    font-size: 12px;
+    
+}
